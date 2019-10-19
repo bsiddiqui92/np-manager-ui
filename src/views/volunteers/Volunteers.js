@@ -4,7 +4,7 @@ export default function Volunteers() {
 
     return (
         <div>
-            This is the volunteers route
+           <h2 className="text-center">Volunteers</h2>
         </div>
     )
 }
