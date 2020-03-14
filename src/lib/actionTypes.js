@@ -5,6 +5,12 @@
 
 
 /* LOGIN ACTIONS */
-const LOGIN_USER = 'LOGIN_USER'
+export const LOGIN_USER = 'LOGIN_USER'
+
+/* LOGOUT ACTIONS */
+export const LOGOUT_USER = 'LOGOUT_USER'
+
+/* SIGNUP ACTIONS */
+export const SIGNUP_USER = 'SIGNUP_USER'
 
 /* Volunteer Actions */
